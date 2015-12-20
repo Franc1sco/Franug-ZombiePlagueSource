@@ -1,0 +1,14 @@
+﻿"Phrases"
+{
+	"250HP"
+	{
+		"en"		"Set to 250 your health"
+		"es"		"Fijar a 250 tu vida"
+	}
+	"you bought 250 HP"
+	{
+		"en"		"You bought 250HP award"
+		"es"		"Tu has comprado el premio de 250HP"
+	}
+
+}

@@ -1,0 +1,30 @@
+﻿"Phrases"
+{
+        "[SM] Utiliza: sm_dar <#userid|nombre> [cantidad]"
+        {
+		"en"		"[SM] Use: sm_givecredits <#userid|name> [amount]"
+		"es"		"[SM] Utiliza: sm_givecredits <#userid|nombre> [cantidad]"
+        }
+        "Tu no tienes tantos creditos!"
+        {
+		"en"		"You dont have many credits!"
+		"es"		"Tu no tienes tantos creditos!"
+        }
+        "No puedes dar menos de 0 creditos!"
+        {
+		"en"		"You cant give less than 0 credits!"
+		"es"		"No puedes dar menos de 0 creditos!"
+        }
+        "Entregados"
+        {
+		"#format"			"{1:i},{2:s}"
+		"en"		"Credits are sent it {1} to the player {2}"
+		"es"		"Entregados {1} creditos al jugador {2}"
+        }
+        "Te ha Entregado"
+        {
+		"#format"			"{1:i},{2:s}"
+		"en"		"You received credits {1} from the player {2}"
+		"es"		"Te ha Entregado {1} creditos el jugador {2}"
+        }
+}

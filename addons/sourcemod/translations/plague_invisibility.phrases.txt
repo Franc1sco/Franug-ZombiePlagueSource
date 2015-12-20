@@ -1,0 +1,14 @@
+﻿"Phrases"
+{
+        "invisibility"
+        {
+		"en"		"Get invisibility"
+		"es"		"Ser invisible"
+        }
+	"you bought invisibility"
+	{
+		"en"		"Now you are invisible!"
+		"es"		"Ahora eres invisible!"
+	}
+
+}

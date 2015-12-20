@@ -1,0 +1,14 @@
+﻿"Phrases"
+{
+        "doublejump"
+        {
+		"en"		"Double jump"
+		"es"		"Doble salto"
+        }
+	"Ahora tienes DOBLE SALTO y puedes saltar en el aire!"
+	{
+		"en"		"Now you have double jump and you can jump on the air!"
+		"es"		"Ahora tienes DOBLE SALTO y puedes saltar en el aire!"
+	}
+
+}

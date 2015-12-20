@@ -1,0 +1,15 @@
+﻿"Phrases"
+{
+        "[SM] Utiliza: sm_setcredits <#userid|nombre> [cantidad]"
+        {
+		"en"		"[SM] Use: sm_setcredits <#userid|name> [amount]"
+		"es"		"[SM] Utiliza: sm_setcredits <#userid|nombre> [cantidad]"
+        }
+        "Puesto creditos"
+        {
+		"#format"	"{1:i},{2:s}"
+		"en"		"Now player {2} have {1} credits"
+		"es"		"Puesto {1} creditos en el jugador {2}"
+        }
+
+}

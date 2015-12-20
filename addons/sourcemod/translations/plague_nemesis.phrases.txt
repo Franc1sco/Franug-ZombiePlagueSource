@@ -1,0 +1,19 @@
+﻿"Phrases"
+{
+        "El jugador NEMESIS se ha desconectado"
+        {
+		"en"		"The player NEMESIS is disconnected"
+		"es"		"El jugador NEMESIS se ha desconectado"
+        }
+        "Vida del NEMESIS"
+        {
+		"#format"	"{1:i}"
+		"en"		"NEMESIS health: {1}"
+		"es"		"Vida del NEMESIS: {1}"
+        }
+        "RONDA NEMESIS!"
+        {
+		"en"		"NEMESIS Round!"
+		"es"		"RONDA NEMESIS!"
+        }
+}

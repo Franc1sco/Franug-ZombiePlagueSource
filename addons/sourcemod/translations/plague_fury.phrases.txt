@@ -1,0 +1,18 @@
+﻿"Phrases"
+{
+        "fury"
+        {
+		"en"		"Be immortal 5 seconds"
+		"es"		"Furia INVULNERABLE 5 segundos"
+        }
+	"you bought fury"
+	{
+		"en"		"Now you are immortal during 5 seconds!"
+		"es"		"Ahora eres INVULNERABLE durante 5 segundos!"
+	}
+        "Ya no eres INVULNERABLE!"
+        {
+		"en"		"Now you arent immortal!"
+		"es"		"Ya no eres INVULNERABLE!"
+        }
+}

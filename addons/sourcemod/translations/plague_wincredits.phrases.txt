@@ -1,0 +1,18 @@
+﻿"Phrases"
+{
+        "Has recibido 1 credito gratis! cada minuto recibiras 1 credito gratuito"
+        {
+		"en"		"You got 1 free credit! Every minute you will receive another one"
+		"es"		"Has recibido 1 credito gratis! cada minuto recibiras 1 credito gratuito"
+        }
+	"Mata jugadores para conseguir creditos"
+	{
+		"en"		"Kill players to get points"
+                "es"            "Mata jugadores para conseguir creditos"
+	}
+	"Escribe !premios para gastar tus creditos en premios"
+	{
+		"en"		"Type !zp to spend your credits in prizes"
+		"es"		"Escribe !zp para gastar tus creditos en premios"
+	}
+}

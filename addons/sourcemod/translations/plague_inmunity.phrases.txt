@@ -1,0 +1,20 @@
+﻿"Phrases"
+{
+	"resistencia armadura"
+	{
+		"#format"	"{1:i}"
+		"The shield against infection will resist {1} hits more!"
+		"El escudo anti-infeccion resistira {1} golpes mas!"
+	}
+	"inmunityzp"
+	{
+		"en"		"Shield against infection"
+		"es"		"Escudo anti-infeccion"
+	}
+	"You bought an human shield"
+	{
+		"en"		"You bought an human shield which resist 5 hits!"
+		"es"		"Has comprado un escudo anti-infeccion que resiste 5 golpes!"
+	}
+
+}

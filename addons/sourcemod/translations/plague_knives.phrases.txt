@@ -1,0 +1,14 @@
+﻿"Phrases"
+{
+        "knives"
+        {
+		"en"		"Projectile Knife"
+		"es"		"Cuchillo arrojadizo"
+        }
+	"Has comprado un cuchillo arrojadizo"
+	{
+		"en"		"You bought an knife projectile"
+		"es"		"Has comprado un cuchillo arrojadizo"
+	}
+
+}

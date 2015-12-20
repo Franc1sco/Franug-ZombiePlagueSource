@@ -1,0 +1,19 @@
+﻿"Phrases"
+{
+	"antidote"
+	{
+		"en"		"Become a Human"
+		"es"		"Curarse con Antidoto"
+	}
+	"you bought antidote"
+	{
+		"en"		"You were health and you became human!"
+		"es"		"Te has curado y vuelves a ser humano!"
+	}
+        "a vuelto a ser humano con un antidoto"
+        {
+		"#format"	"{1:s}"
+		"en"		"{1} become a human being with an antidote"
+		"es"		"{1} a vuelto a ser humano con un antidoto"
+        }
+}

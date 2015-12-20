@@ -1,0 +1,14 @@
+﻿"Phrases"
+{
+	"velocity"
+	{
+		"en"		"More speed"
+		"es"		"Mas velocidad"
+	}
+	"you bought velocity"
+	{
+		"en"		"Now you have more speed!"
+		"es"		"Ahora tienes mas velocidad!"
+	}
+
+}

@@ -1,0 +1,14 @@
+﻿"Phrases"
+{
+	"goldendeagle"
+	{
+		"en"		"Golden burning Deagle"
+		"es"		"Deagle Dorada Ardiente"
+	}
+	"you bought goldendeagle"
+	{
+		"en"		"Now you have a Golden burning Deagle that make more damage and burn!"
+		"es"		"Ahora tienes una Deagle DORADA ARDIENTE que produce mas damage y quema!"
+	}
+
+}

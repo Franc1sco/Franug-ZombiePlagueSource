@@ -1,0 +1,39 @@
+﻿"Phrases"
+{
+	"Lanzallamas"
+	{
+		"en"		"Flame"
+		"es"		"Lanzallamas"
+	}
+	"Lanzallamas2"
+	{
+		"en"		"Flame2"
+		"es"		"Lanzallamas2"
+	}
+	"Lanzallamas3"
+	{
+		"en"		"Flame3"
+		"es"		"Lanzallamas3"
+	}
+	"comprado"
+	{
+		"en"		"buyyyyy"
+		"es"		"compradoooooooooooooo"
+	}
+	"Lanzallamas4"
+	{
+		"en"		"Flame"
+		"es"		"Lanzallamas"
+	}
+	"Lanzallamas5"
+	{
+		"en"		"Flame2"
+		"es"		"Lanzallamas2"
+	}
+	"Lanzallamas6"
+	{
+		"en"		"Flame3"
+		"es"		"Lanzallamas3"
+	}
+
+}

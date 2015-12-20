@@ -1,0 +1,14 @@
+﻿"Phrases"
+{
+	"goldenm249"
+	{
+		"en"		"Golden burning M249"
+		"es"		"M249 Dorada Ardiente"
+	}
+	"you bought goldenm249"
+	{
+		"en"		"Now you have a Golden burning M249 that make more damage and burn!"
+		"es"		"Ahora tienes una M249 DORADA ARDIENTE que produce mas damage y quema!"
+	}
+
+}

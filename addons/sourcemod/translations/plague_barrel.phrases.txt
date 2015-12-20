@@ -1,0 +1,14 @@
+﻿"Phrases"
+{
+	"barrel"
+	{
+		"en"		"Dress up in a barrell"
+		"es"		"Disfrazarse de barril"
+	}
+	"you bought barrel"
+	{
+		"en"		"Now you are an barrell!"
+		"es"		"Ahora eres un Barril!"
+	}
+
+}
