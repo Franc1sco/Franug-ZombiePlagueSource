@@ -1,0 +1,75 @@
+"Phrases"
+{
+	// ===========================
+	// Chat Messages
+	// ===========================
+
+	"ZProp"
+	{
+		"en"		"ZProp"
+		"ru"		"ZProp"
+	}
+
+	"Join message"
+	{
+		"en"		"ZProp is enabled, earn credits for killing zombies, etc.  Type !zprops to spawn a prop."
+		"ru"		"ZProp включён, получайте кредиты за убийства зомби и т.д.  Введите !zprops для покупки предмета."
+	}
+
+	"Spawn prop"
+	{
+		"#format"	"{1:s}"
+		"en"		"You have purchased a {1}"
+		"ru"		"Вы приобрели {1}"
+	}
+
+	"Insufficient credits"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"You have insufficient credits - Current: {1} - Required: {2}"
+		"ru"		"У вас недостаточно кредитов - Имеется: {1} - Требуется: {2}"
+	}
+
+	// ===========================
+	// Menus
+	// ===========================
+
+	"Menu title"
+	{
+		"#format"	"{1:d}"
+		"en"		"Available Props (Credits {1}):"
+		"ru"		"Доступные предметы ({1} кредитов):"
+	}
+
+	"Menu option"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1} - {2} Credits"
+		"ru"		"{1} - {2} кредитов"
+	}
+
+	// ===========================
+	// HudHints
+	// ===========================
+
+	"Credits left gain"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Credits Gained: {1}\nCurrent Credits: {2}"
+		"ru"		"Кредитов получено: {1}\nТекущие кредиты: {2}"
+	}
+
+	"Credits left spend"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Credits Spent: {1}\nCurrent Credits: {2}"
+		"ru"		"Кредитов потрачено: {1}\nТекущие кредиты: {2}"
+	}
+
+	"Credits left max"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Credits Gained: {1}\nCurrent Credits: {2} (max)"
+		"ru"		"Кредитов получено: {1}\nТекущие кредиты: {2} (макс)"
+	}
+}

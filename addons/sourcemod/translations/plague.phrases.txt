@@ -1,0 +1,373 @@
+﻿"Phrases"
+{
+	"Mata jugadores para conseguir creditos"
+	{
+		"en"		"Kill players to get points"
+                "es"            "Mata jugadores para conseguir creditos"
+	}
+	"Escribe !premios para gastar tus creditos en premios"
+	{
+		"en"		"Type {lightgreen}!awards {olive}to spend your credits in prizes"
+		"es"		"Escribe {lightgreen}!premios {olive}para gastar tus creditos en premios"
+	}
+        "Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"Your credits: {1}"
+		"es"		"Tus creditos: {1}"
+        }
+        "Tus creditosM"
+        {
+		"#format"	"{1:i}"
+		"en"		"Your credits: {1} (Max permited)"
+		"es"		"Tus creditos: {1} (Maximo permitido)"
+        }
+        "La armadura anti"
+        {
+		"#format"	"{1:i}"
+		"en"		"The human shield will resist {1} hits more"
+		"es"		"La armadura anti-infeccion resistira {1} golpes mas"
+        }
+        "Tus creditos actuales son"
+        {
+		"#format"	"{1:i}"
+		"en"		"Your present credits are: {1}"
+		"es"		"Tus creditos actuales son: {1}"
+        }
+        "El jugador NEMESIS se ha desconectado"
+        {
+		"en"		"The player NEMESIS is disconnected"
+		"es"		"El jugador NEMESIS se ha desconectado"
+        }
+        "El jugador SURVIVOR se ha desconectado"
+        {
+		"en"		"The player SURVIVOR is disconnected"
+		"es"		"El jugador SURVIVOR se ha desconectado"
+        }
+        "Te has aplicado cirugia. Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"You have been cured. Your credits: {1}"
+		"es"		"Te has aplicado cirugia. Tus creditos: {1}"
+        }
+        "Tienes que ser humano para poder comprar este premio"
+        {
+		"en"		"You have to be an human to buy this prize"
+		"es"		"Tienes que ser humano para poder comprar este premio"
+        }
+        "Necesitas creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"Your credits: {1} (You dont have credits to get cured! You need"
+		"es"		"Tus creditos: {1} (No tienes suficiente Creditos para curarte! Necesitas"
+        }
+        "Pero si estas muerto"
+        {
+		"en"		"You are dead... stupid !! xDD"
+		"es"		"Pero si estas muerto... so bobo !! xDD"
+        }
+        "Activada MUNICION INFINITA"
+        {
+		"en"		"Activated INFINITE AMMO for everyone!!!!!"
+		"es"		"Activada MUNICION INFINITA para todos!!!!!"
+        }
+        "Ya no eres INVULNERABLE!"
+        {
+		"en"		"Now you arent immortal!"
+		"es"		"Ya no eres INVULNERABLE!"
+        }
+        "ZombiePlague by Franug. Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"ZombiePlague by Franug. Your credits: {1}"
+		"es"		"ZombiePlague by Franug. Tus creditos: {1}"
+        }
+        "Ver informacion del plugin"
+        {
+		"en"		"Information about the plugin"
+		"es"		"Ver informacion del plugin"
+        }
+        "Curarse a 100 HP (humanos) - 7  Creditos"
+        {
+		"en"		"Get 100 HP (humans) - 7  Credits"
+		"es"		"Curarse a 100 HP (humanos) - 7  Creditos"
+        }
+        "Tener 250 hp de vida (humanos) - 8 Creditos"
+        {
+		"en"		"Get 250 HP (humans) - 8  Credits"
+		"es"		"Tener 250 hp de vida (humanos) - 8 Creditos"
+        }
+        "Municion de lanzallamas (ambos) - 9  Creditos"
+        {
+		"en"		"Flamethrower ammo (both) - 9  Credits"
+		"es"		"Municion de lanzallamas (ambos) - 9  Creditos"
+        }
+        "Doble salto (ambos) - 9  Creditos"
+        {
+		"en"		"Double jump (both) - 9  Credits"
+		"es"		"Doble salto (ambos) - 9  Creditos"
+        }
+        "Cuchillo arrojadizo (ambos) - 14  Creditos"
+        {
+		"en"		"Projectile Knife (both) - 14  Credits"
+		"es"		"Cuchillo arrojadizo (ambos) - 14  Creditos"
+        }
+        "Escudo anti (humanos) - 15  Creditos"
+        {
+		"en"		"Shield against zombies (humans) - 15  Credits"
+		"es"		"Escudo anti-infeccion (humanos) - 15  Creditos"
+        }
+        "Mas velocidad (ambos) - 15  Creditos"
+        {
+		"en"		"More speed (both) - 15  Credits"
+		"es"		"Mas velocidad (ambos) - 15  Creditos"
+        }
+        "Disfrazarse de barril (ambos)  - 15 Creditos"
+        {
+		"en"		"Dress up in a barrell(both)  - 15 Credits"
+		"es"		"Disfrazarse de barril (ambos)  - 15 Creditos"
+        }
+        "Municion Infinita (humanos) - 16  Creditos"
+        {
+		"en"		"Unlimited ammo (both) - 16  Credits"
+		"es"		"Municion Infinita (humanos) - 16  Creditos"
+        }
+        "Curarse con Antidoto (zombis) - 18  Creditos"
+        {
+		"en"		"Become a Human (zombies) - 18  Credits"
+		"es"		"Curarse con Antidoto (zombis) - 18  Creditos"
+        }
+        "Ser invisible (ambos) - 20 Creditos"
+        {
+		"en"		"Get invisibility (both) - 20 Credits"
+		"es"		"Ser invisible (ambos) - 20 Creditos"
+        }
+        "Furia INVULNERABLE 5 segundos (ambos) - 50  Creditos"
+        {
+		"en"		"Be immortal 5 seconds (both) - 50  Credits"
+		"es"		"Furia INVULNERABLE 5 segundos (ambos) - 50  Creditos"
+        }
+        "Deagle Dorada Ardiente (humanos) - 50  Creditos"
+        {
+		"en"		"Golden burning Deagle (humans) - 50  Credits"
+		"es"		"Deagle Dorada Ardiente (humanos) - 50  Creditos"
+        }
+        "Bomba de infeccion (zombis) - 60  Creditos"
+        {
+		"en"		"Infection bomb (zombies) - 60  Credits"
+		"es"		"Bomba de infeccion (zombis) - 60  Creditos"
+        }
+        "Bomba de antidoto (humanos) - 60  Creditos"
+        {
+		"en"		"Antidote bomb (humans) - 60  Credits"
+		"es"		"Bomba de antidoto (humanos) - 60  Creditos"
+        }
+        "KAMIKAZE EXPLOSIVO (ambos) - 60  Creditos"
+        {
+		"en"		"Human bomb (both) - 60  Credits"
+		"es"		"KAMIKAZE EXPLOSIVO (ambos) - 60  Creditos"
+        }
+        "MP5 Dorada Ardiente (humanos) - 60  Creditos"
+        {
+		"en"		"Golden burning MP5 (humans) - 60  Credits"
+		"es"		"MP5 Dorada Ardiente (humanos) - 60  Creditos"
+        }
+        "Has recibido 1 credito gratis! cada minuto recibiras 1 credito gratuito"
+        {
+		"en"		"You got 1 free credit! Every minute you will receive another one"
+		"es"		"Has recibido 1 credito gratis! cada minuto recibiras 1 credito gratuito"
+        }
+        "Vida del NEMESIS"
+        {
+		"#format"	"{1:i}"
+		"en"		"NEMESIS health: {1}"
+		"es"		"Vida del NEMESIS: {1}"
+        }
+        "Vida del SURVIVOR"
+        {
+		"#format"	"{1:i}"
+		"en"		"SURVIVOR health: {1}"
+		"es"		"Vida del SURVIVOR: {1}"
+        }
+        "Dispara a los zombies o infecta humanos para ganar creditos"
+        {
+		"en"		"Shoot the zombies or get the humans infected to get credits."
+		"es"		"Dispara a los zombies o infecta humanos para ganar creditos."
+        }
+        "creado para SourceMod, encuentralo en www.servers-cfg.foroactivo.com"
+        {
+		"#format"	"{1:s}"
+		"en"		"Version: {1} created for SourceMod by Franc1sco Franug"
+		"es"		"Version: {1} creado para SourceMod, encuentralo en www.servers-cfg.foroactivo.com"
+        }
+        "No puedes comprar cosas siendo un ser especial"
+        {
+		"en"		"You cant buy things being an special class."
+		"es"		"No puedes comprar cosas siendo un ser especial."
+        }
+        "Tienes que estar vivo para poder comprar premios"
+        {
+		"en"		"You need to be alive to buy prizes"
+		"es"		"Tienes que estar vivo para poder comprar premios"
+        }
+        "Tienes que ser zombie para poder comprar este premio"
+        {
+		"en"		"You have to be an zombie to buy this prize"
+		"es"		"Tienes que ser zombie para poder comprar este premio"
+        }
+        "ahora tienes 250 HP. Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"Now you have 250 HP. Your credits: {1}"
+		"es"		"ahora tienes 250 HP. Tus creditos: {1}"
+        }
+        "Has comprado una municion para LANZALLAMAS! Se usa apretando boton derecho del raton a cuxi.  Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"You bought flamethrower! To use you have to press the right click to use the flamethrower while you are using the knife. Your credits: {1}"
+		"es"		"Has comprado una municion para LANZALLAMAS! Se usa apretando boton derecho del raton a cuxi. Tus creditos: {1}"
+        }
+        "Ahora tienes DOBLE SALTO y puedes saltar en el aire! Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"Now you have double jump and you can jump on the air! Your credits: {1}"
+		"es"		"Ahora tienes DOBLE SALTO y puedes saltar en el aire! Tus creditos: {1}"
+        }
+        "Has comprado un cuchillo arrojadizo. Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"You bought an knife projectile. Your credits: {1}"
+		"es"		"Has comprado un cuchillo arrojadizo. Tus creditos: {1}"
+        }
+        "Has comprado un escudo anti-infeccion que resiste 5 golpes! Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"You bought an human shield which resist 5 hits! Your credits: {1}"
+		"es"		"Has comprado un escudo anti-infeccion que resiste 5 golpes! Tus creditos: {1}"
+        }
+        "Ahora tienes mas velocidad! Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"Now you have more speed! Your credits: {1}"
+		"es"		"Ahora tienes mas velocidad! Tus creditos: {1}"
+        }
+        "Ahora eres un Barril! Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"Now you are an barrell! Your credits: {1}"
+		"es"		"Ahora eres un Barril! Tus creditos: {1}"
+        }
+        "Ahora tienes municion infinita! Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"Now you have unlimited ammo! Your credits: {1}"
+		"es"		"Ahora tienes municion infinita! Tus creditos: {1}"
+        }
+        "No puedes curarte al empezar la ronda hasta que no pase 1 minuto"
+        {
+		"en"		"You can not heal at the start of the round until passed 1 minute"
+		"es"		"No puedes curarte al empezar la ronda hasta que no pase 1 minuto"
+        }
+        "a vuelto a ser humano con un antidoto"
+        {
+		"#format"	"{1:s}"
+		"en"		"{1} become a human being with an antidote"
+		"es"		"{1} a vuelto a ser humano con un antidoto"
+        }
+        "Te has curado y vuelves a ser humano! Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"You were health and you became human! Your credits: {1}"
+		"es"		"Te has curado y vuelves a ser humano! Tus creditos: {1}"
+        }
+        "Ahora eres invisible! Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"Now you are invisible! Your credits: {1}"
+		"es"		"Ahora eres invisible! Tus creditos: {1}"
+        }
+        "Ahora eres INVULNERABLE durante 5 segundos! Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"Now you are immortal during 5 seconds! Your credits: {1}"
+		"es"		"Ahora eres INVULNERABLE durante 5 segundos! Tus creditos: {1}"
+        }
+        "Ahora tienes una Deagle DORADA ARDIENTE que produce mas damage y quema! Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"Now you have a Golden burning Deagle that make more damage and burn! Your credits: {1}"
+		"es"		"Ahora tienes una Deagle DORADA ARDIENTE que produce mas damage y quema! Tus creditos: {1}"
+        }
+        "Has comprado una BOMBA DE INFECCION! Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"You bought an infection bomb! Your credits: {1}"
+		"es"		"Has comprado una BOMBA DE INFECCION! Tus creditos: {1}"
+        }
+        "Has comprado una BOMBA DE ANTIDOTO! Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"You bought an antidote bomb! Your credits: {1}"
+		"es"		"Has comprado una BOMBA DE ANTIDOTO! Tus creditos: {1}"
+        }
+        "Ahora eres una KAMIKAZE EXPLOSIVO! escribe !detonar para estallar! Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"Now you are a Human bomb! Type !detonate to explote! Your credits: {1}"
+		"es"		"Ahora eres una KAMIKAZE EXPLOSIVO! escribe !detonar para estallar! Tus creditos: {1}"
+        }
+        "Ahora tienes una MP5 NAVY DORADA ARDIENTE que produce mas damage y quema! Tus creditos"
+        {
+		"#format"	"{1:i}"
+		"en"		"Now you have a Golden burning MP5 NAVY that make more damage and burn! Your credits: {1}"
+		"es"		"Ahora tienes una MP5 NAVY DORADA ARDIENTE que produce mas damage y quema! Tus creditos: {1}"
+        }
+        "RONDA Plague!"
+        {
+		"en"		"Plague Round!"
+		"es"		"RONDA Plague!"
+        }
+        "RONDA SURVIVOR!"
+        {
+		"en"		"SURVIVOR Round!"
+		"es"		"RONDA SURVIVOR!"
+        }
+        "RONDA NEMESIS!"
+        {
+		"en"		"NEMESIS Round!"
+		"es"		"RONDA NEMESIS!"
+        }
+        "Has superado el limite de props que puedes poner. Maximo: 15"
+        {
+		"en"		"You have exceeded the limit of props. Max: 15"
+		"es"		"Has superado el limite de props que puedes poner. Maximo: 15"
+        }
+        "El admin ha borrado todos los props que se habian puesto"
+        {
+		"#format"	"{1:s}"
+		"en"		"The admin {1} has removed all the props"
+		"es"		"El admin {1} ha borrado todos los props que se habian puesto"
+        }
+        "Tu no tienes tantos creditos!"
+        {
+		"en"		"You dont have many credits!"
+		"es"		"Tu no tienes tantos creditos!"
+        }
+        "No puedes dar menos de 0 creditos!"
+        {
+		"en"		"You cant give less than 0 credits!"
+		"es"		"No puedes dar menos de 0 creditos!"
+        }
+        "Entregados"
+        {
+		"#format"			"{1:i},{2:s}"
+		"en"		"Credits are sent it {1} to the player {2}"
+		"es"		"Entregados {1} creditos al jugador {2}"
+        }
+        "Te ha Entregado"
+        {
+		"#format"			"{1:i},{2:s}"
+		"en"		"You received credits {1} from the player {2}"
+		"es"		"Te ha Entregado {1} creditos el jugador {2}"
+        }
+}

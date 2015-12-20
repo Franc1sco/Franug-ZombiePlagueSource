@@ -1,0 +1,66 @@
+//
+// Here you can pre-define each prop available to the players and its cost
+// Format:
+//
+// "display"    - This text is what is shown in the menu
+//	"cost"  - The cost, in credits, of the prop
+//	"model" - The path to the model of the prop (props are available in either the hl2/cstrike directories)
+//	"type"  - Optional physics type of the prop, set to prop_physics_override if prop not spawn or if you want that prop have been not breakable
+//		  Default value is prop_physics
+//
+
+"zprops"
+{
+	"Cabinet - 1000 HP" // this is the name
+	{
+		"cost"		"2" // credits of zombie plague
+		"vida"		"1000" // this is the HP
+		"model"		"models/props/cs_office/file_cabinet1.mdl"
+	}
+
+	"Sofa - 1100 HP"
+	{
+		"cost"		"3"
+		"vida"		"1100"
+		"model"		"models/props/cs_office/sofa_chair.mdl"
+	}
+
+	"Dryer - 1150 HP"
+	{
+		"cost"		"4"
+		"vida"		"1150"
+		"model"		"models/props/cs_militia/dryer.mdl"
+	}
+
+	"Wood crate - 500 HP"
+	{
+		"cost"		"5"
+		"vida"		"500"
+		"model"		"models/props_junk/wood_crate001a.mdl"
+// Uncomment below line to make this prop have been not breakable
+//		"type"		"prop_physics_override"
+
+	}
+
+	"Gas Pump - 1300 HP"
+	{
+		"cost"		"7"
+		"vida"		"1300"
+		"model"		"models/props_wasteland/gaspump001a.mdl"
+	}
+
+	"Vending Machine - 1500 HP"
+	{
+		"cost"		"10"
+		"vida"		"1500"
+		"model"		"models/props/cs_office/vending_machine.mdl"
+	}
+
+	"Oildrum explosive (for break barricades)"
+	{
+		"cost"		"12"
+		"vida"		"2"
+		"bombazo"	"si" // make the prop explosive? Si = yes
+		"model"		"models/props_c17/oildrum001_explosive.mdl"
+	}
+}
