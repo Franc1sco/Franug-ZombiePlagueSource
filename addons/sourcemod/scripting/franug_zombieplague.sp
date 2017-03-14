@@ -16,9 +16,6 @@
  */
 
 
-// INCOMPLETED PLUGIN, DONT USE IN A NORMAL SERVER
-
-
 #pragma semicolon 1
 #include <sourcemod>
 #include <sdktools>
